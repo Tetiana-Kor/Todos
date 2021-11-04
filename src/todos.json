@@ -1,0 +1,5 @@
+[
+  { "id": "1", "text": "Вивчити ази програмування", "completed": true },
+  { "id": "2", "text": "Вчитися кожен день", "completed": false },
+  { "id": "3", "text": "Знайти роботу", "completed": false }
+]
